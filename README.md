@@ -3,7 +3,7 @@
 To demonstrate the use of aggregation functions, Pivot Tables, Slicers, Timelines, and Pivot Charts in Excel to create an interactive report.
 
 ## Dataset(s)
-- The <a href="https://github.com/DennyMandaka/Projects/blob/main/Cleaning%20and%20Manipulating%20Text%20Strings.xlsx">dataset</a> was generated from Mockaroo. This synthetic dataset includes columns such as Campaign Category, Ad Cost, Impressions, Clicks, Conversions, and Revenue from Ad, designed to mimic a marketing campaign dataset.
+- The <a href="https://github.com/DennyMandaka/Pivot-Tables-and-Interactive-Report/blob/main/Pivot%20Tables%20and%20Interactive%20Report.xlsx">dataset</a> was generated from Mockaroo. This synthetic dataset includes columns such as Campaign Category, Ad Cost, Impressions, Clicks, Conversions, and Revenue from Ad, designed to mimic a marketing campaign dataset.
 
 ## Data Cleaning and Summarizing Data using Pivot Tables
 - Converting the .csv file to an Excel sheet using Power Query.
@@ -15,7 +15,7 @@ To demonstrate the use of aggregation functions, Pivot Tables, Slicers, Timeline
 - Use Data Validation to check the value format.
 - Use aggregation functions like SUM, AVERAGE, and basic mathematical formulas.
 - Use Pivot Tables to analyze and aggregate the data.
-- The <a href="https://github.com/DennyMandaka/Cleaning-and-Manipulating-Text-Strings/blob/main/Cleaning%20and%20Manipulating%20Text%20Strings.png">result</a> is like this and <a href="https://github.com/DennyMandaka/Cleaning-and-Manipulating-Text-Strings/blob/main/Cleaning%20and%20Manipulating%20Text%20Strings.png">like this</a>.
+- The interactive report page with a Slicer and Timeline looks like <a href="https://github.com/DennyMandaka/Pivot-Tables-and-Interactive-Report/blob/main/Ads%20Spending%20Report.png">this</a>.
 
 ## Insights and Conclusion
 - The use of Pivot Tables, Slicers, and Timeline in Excel allows for efficient data aggregation and analysis, providing valuable insights from marketing campaign data.
